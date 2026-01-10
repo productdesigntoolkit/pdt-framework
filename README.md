@@ -1,4 +1,4 @@
-# Product Design Toolkit 2025
+# Product Design Toolkit
 
 Dieses Repository enthält die aktuelle Version des **Product Design Toolkit Frameworks**.
 
