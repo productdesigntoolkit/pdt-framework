@@ -8,8 +8,8 @@ Dieses Repository enthält die aktuelle Version des **Product Design Toolkit Fra
 
 ## ℹ️ Status
 
-* **Version:** 0.08 (BETA)
-* **Datum:** 10.12.2025
+* **Version:** 0.9.0 (BETA)
+* **Datum:** 01.02.2026
 * **Autor:** Ralph Hutter
 
 ## 🧩 Über das Framework
@@ -25,4 +25,4 @@ Das Toolkit deckt den gesamten Produktentwicklungszyklus ab:
 
 Dieses Werk ist lizenziert unter einer **Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz** (CC BY-NC-SA 4.0).
 
-Copyright © 2025 Ralph Hutter.
+Copyright © 2026 Ralph Hutter.
