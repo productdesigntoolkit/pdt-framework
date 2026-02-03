@@ -2,10 +2,6 @@
 
 Dieses Repository enthält die aktuelle Version des **Product Design Toolkit Frameworks**.
 
-## 📄 Dateiübersicht
-
-* **`Product Design Toolkit 2025 v0.08-1.pdf`**: Die visuelle Übersicht des Frameworks, unterteilt in die Phasen Why, What, How und When.
-
 ## ℹ️ Status
 
 * **Version:** 0.9.0 (BETA)
